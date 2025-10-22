@@ -1,0 +1,9 @@
+CREATE DATABASE registro;
+
+SHOW DATABASES;
+
+USE registro;
+
+CREATE DATABASE mi base;
+
+CREATE DATABASE mi_base;
